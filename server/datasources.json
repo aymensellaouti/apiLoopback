@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "AymenDb": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "anguforma",
+    "password": "",
+    "name": "AymenDb",
+    "user": "root",
+    "connector": "mysql"
+  }
+}

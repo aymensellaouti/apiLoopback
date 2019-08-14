@@ -39,7 +39,7 @@
     "dataSource": "AymenDb"
   },
   "personne": {
-    "dataSource": "AymenDb",
+    "dataSource": "AymenDbHeroku",
     "public": true
   },
   "Student": {
@@ -48,6 +48,10 @@
   },
   "sofreccom": {
     "dataSource": "db",
+    "public": true
+  },
+  "todo": {
+    "dataSource": "AymenDb",
     "public": true
   }
 }

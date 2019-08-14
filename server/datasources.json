@@ -12,5 +12,15 @@
     "name": "AymenDb",
     "user": "root",
     "connector": "mysql"
+  },
+  "AymenDbHeroku": {
+    "host": "us-cdbr-iron-east-02.cleardb.net",
+    "port": 3306,
+    "url": "",
+    "database": "heroku_949d80fea93dae6",
+    "password": "5514083e",
+    "name": "AymenDbHeroku",
+    "user": "b2bd1e60597fd9",
+    "connector": "mysql"
   }
 }
